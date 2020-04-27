@@ -1,0 +1,7 @@
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = git@github.com:zeroday0619/hugo-theme-zzo.git
+[submodule "public"]
+	path = public
+	url = git@github.com:zeroday0619/blog.zeroday0619.dev.git
+	branch = master
